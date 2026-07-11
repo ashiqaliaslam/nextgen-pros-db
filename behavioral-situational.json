@@ -1,0 +1,72 @@
+[
+    {
+        "id": "bhv_1",
+        "industry": "General / Core Operations",
+        "position": "Trainee / Apprentice",
+        "difficulty": "Entry-Level (0-2 years)",
+        "category": "Behavioral & Situational",
+        "question": "Why did you select this specific industrial field compared to other career options?",
+        "answer": "",
+        "contributor": "Anonymous"
+    },
+    {
+        "id": "bhv_2",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "Why are you leaving your current or previous job?",
+        "answer": "",
+        "contributor": "Muhammad Noman"
+    },
+    {
+        "id": "bhv_3",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "Why should we hire you for this position over other candidates?",
+        "answer": "",
+        "contributor": "Muhammad Noman"
+    },
+    {
+        "id": "bhv_4",
+        "industry": "General / Core Operations",
+        "position": "HSE Professional",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "Deliver a safety toolbox talk right now to a large group of maintenance contractors as if you are standing in front of them.",
+        "answer": "",
+        "contributor": "Kashif Rehman"
+    },
+    {
+        "id": "bhv_5",
+        "industry": "General / Core Operations",
+        "position": "HSE Professional",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "As the safety officer, if production and maintenance teams pressure you to allow a critical job to continue despite missing essential safety documents, what would you do?",
+        "answer": "",
+        "contributor": "Kashif Rehman"
+    },
+    {
+        "id": "bhv_6",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Senior-Level (8-15 years)",
+        "category": "Behavioral & Situational",
+        "question": "Tell me about yourself, your background, and your key professional milestones.",
+        "answer": "",
+        "contributor": "Anonymous"
+    },
+    {
+        "id": "bhv_7",
+        "industry": "General / Core Operations",
+        "position": "Panel / DCS Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "Can you describe your current Job Description (JD) and map your day-to-day operations experience to this role?",
+        "answer": "",
+        "contributor": "Ali Ahmed"
+    }
+]

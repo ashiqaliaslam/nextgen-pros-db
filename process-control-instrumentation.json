@@ -1,0 +1,52 @@
+[
+    {
+        "id": "ctrl_1",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Control & Instrumentation",
+        "question": "What are the tripping logics of a compressor?",
+        "answer": "",
+        "contributor": "Muhammad Abubakar"
+    },
+    {
+        "id": "ctrl_2",
+        "industry": "Oil & Gas",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Control & Instrumentation",
+        "question": "Why do we maintain a differential pressure (DP) between the amine solution and the sour gas?",
+        "answer": "",
+        "contributor": "Muhammad Noman"
+    },
+    {
+        "id": "ctrl_3",
+        "industry": "Oil & Gas",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Control & Instrumentation",
+        "question": "Why is it important to control the Reid Vapor Pressure (RVP) of crude oil?",
+        "answer": "",
+        "contributor": "Muhammad Noman"
+    },
+    {
+        "id": "ctrl_4",
+        "industry": "General / Core Operations",
+        "position": "Panel / DCS Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Control & Instrumentation",
+        "question": "Walk through and explain a Process Flow Diagram (PFD) for a standard utility block.",
+        "answer": "",
+        "contributor": "Anonymous"
+    },
+    {
+        "id": "ctrl_5",
+        "industry": "General / Core Operations",
+        "position": "Panel / DCS Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Control & Instrumentation",
+        "question": "How do you identify instrument symbols on a P&ID and explain the functional operation of a complex cascade control loop?",
+        "answer": "",
+        "contributor": "Anonymous"
+    }
+]
