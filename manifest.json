@@ -1,15 +1,26 @@
 {
-    "last_updated": "2026-07-10T12:00:00Z",
-    "categories": [
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-11",
+    "files": [
         {
-            "id": "oil_and_gas",
-            "filename": "oil_and_gas.json",
-            "version": 1.2
+            "name": "equipment-unit-ops.json",
+            "tag": "eq_"
         },
         {
-            "id": "power_gen",
-            "filename": "power_gen.json",
-            "version": 1.0
+            "name": "process-control-instrumentation.json",
+            "tag": "ctrl_"
+        },
+        {
+            "name": "process-safety-hse.json",
+            "tag": "safe_"
+        },
+        {
+            "name": "troubleshooting-emergencies.json",
+            "tag": "trouble_"
+        },
+        {
+            "name": "behavioral-situational.json",
+            "tag": "bhv_"
         }
     ]
 }
