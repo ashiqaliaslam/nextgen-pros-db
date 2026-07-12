@@ -2,42 +2,42 @@
     {
         "id": "trouble_1",
         "industry": "General / Core Operations",
-        "position": "Field Operator",
-        "difficulty": "Mid-Level (3-7 years)",
-        "category": "Troubleshooting & Emergencies",
-        "question": "During a pump changeover, how do you ensure that the standby pump has successfully taken the load?",
-        "answer": "",
-        "contributor": "Muhammad Abubakar"
-    },
-    {
-        "id": "trouble_2",
-        "industry": "General / Core Operations",
-        "position": "Field Operator",
-        "difficulty": "Mid-Level (3-7 years)",
-        "category": "Troubleshooting & Emergencies",
-        "question": "If you perform an LEL gas test in your work area and gas is detected, what actions must you take and how would you safely proceed with or halt the job?",
-        "answer": "",
-        "contributor": "Muhammad Abubakar"
-    },
-    {
-        "id": "trouble_3",
-        "industry": "General / Core Operations",
         "position": "Trainee / Apprentice",
         "difficulty": "Entry-Level (0-2 years)",
         "category": "Troubleshooting & Emergencies",
-        "question": "What causes pump cavitation and how can you identify it happening in the field?",
+        "question": "How do you solve a cavitation problem in a pump?",
         "answer": "",
         "contributor": "Anonymous"
+    },
+    {
+        "id": "trouble_2",
+        "industry": "Oil & Gas",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Troubleshooting & Emergencies",
+        "question": "What are the causes of an increased burner block in an SRU (Sulfur Recovery Unit)?",
+        "answer": "",
+        "contributor": "Muhammad Noman"
+    },
+    {
+        "id": "trouble_3",
+        "industry": "Oil & Gas",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Troubleshooting & Emergencies",
+        "question": "What are the causes of foaming in an amine unit?",
+        "answer": "",
+        "contributor": "Muhammad Noman"
     },
     {
         "id": "trouble_4",
         "industry": "General / Core Operations",
-        "position": "Trainee / Apprentice",
-        "difficulty": "Entry-Level (0-2 years)",
+        "position": "HSE Professional",
+        "difficulty": "Mid-Level (3-7 years)",
         "category": "Troubleshooting & Emergencies",
-        "question": "How do you troubleshoot and solve a pump cavitation problem?",
+        "question": "If a fire breaks out on the main natural gas line, what actions would you take?",
         "answer": "",
-        "contributor": "Anonymous"
+        "contributor": "Kashif Rehman"
     },
     {
         "id": "trouble_5",
@@ -45,7 +45,7 @@
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Troubleshooting & Emergencies",
-        "question": "What are the common causes of increased burner block temperature or plugging on a Sulfur Recovery Unit (SRU)?",
+        "question": "How do you avoid hydrate formation in LPG systems?",
         "answer": "",
         "contributor": "Muhammad Noman"
     },
@@ -55,48 +55,38 @@
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Troubleshooting & Emergencies",
-        "question": "What are the root causes of amine foaming in a gas sweetening unit?",
+        "question": "What actions would you take in the event of an LPG gas leak?",
         "answer": "",
         "contributor": "Muhammad Noman"
     },
     {
         "id": "trouble_7",
         "industry": "General / Core Operations",
-        "position": "HSE Professional",
+        "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Troubleshooting & Emergencies",
-        "question": "If a fire breaks out on the main natural gas supply line, what immediate emergency response actions must you execute?",
+        "question": "What causes pump vibration?",
         "answer": "",
-        "contributor": "Kashif Rehman"
+        "contributor": "Hamza Zafar"
     },
     {
         "id": "trouble_8",
-        "industry": "Power Generation & Utilities",
+        "industry": "General / Core Operations",
         "position": "Field Operator",
-        "difficulty": "Senior-Level (8-15 years)",
+        "difficulty": "Mid-Level (3-7 years)",
         "category": "Troubleshooting & Emergencies",
-        "question": "How do you manage and respond to a severe Boiler area emergency?",
+        "question": "How do you troubleshoot a compressor trip?",
         "answer": "",
-        "contributor": "Anonymous"
+        "contributor": "Hamza Zafar"
     },
     {
         "id": "trouble_9",
         "industry": "General / Core Operations",
-        "position": "Panel / DCS Operator",
+        "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Troubleshooting & Emergencies",
-        "question": "What is the proper changeover, isolation, and maintenance handover procedure for an online Pressure Relief Valve (PRV) with a twin block valve setup?",
+        "question": "Have you ever faced a surging issue in a compressor?",
         "answer": "",
-        "contributor": "Anonymous"
-    },
-    {
-        "id": "trouble_10",
-        "industry": "General / Core Operations",
-        "position": "Panel / DCS Operator",
-        "difficulty": "Mid-Level (3-7 years)",
-        "category": "Troubleshooting & Emergencies",
-        "question": "In the event of a plant trip, what are your immediate emergency response steps and communication chains?",
-        "answer": "",
-        "contributor": "Anonymous"
+        "contributor": "Yaseen Haroon"
     }
 ]

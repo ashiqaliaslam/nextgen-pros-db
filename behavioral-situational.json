@@ -5,7 +5,7 @@
         "position": "Trainee / Apprentice",
         "difficulty": "Entry-Level (0-2 years)",
         "category": "Behavioral & Situational",
-        "question": "Why did you select this specific industrial field compared to other career options?",
+        "question": "Why did you choose this field over other career options?",
         "answer": "",
         "contributor": "Anonymous"
     },
@@ -15,7 +15,7 @@
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Behavioral & Situational",
-        "question": "Why are you leaving your current or previous job?",
+        "question": "Why did you leave your previous job?",
         "answer": "",
         "contributor": "Muhammad Noman"
     },
@@ -25,7 +25,7 @@
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Behavioral & Situational",
-        "question": "Why should we hire you for this position over other candidates?",
+        "question": "Why should we hire you?",
         "answer": "",
         "contributor": "Muhammad Noman"
     },
@@ -35,7 +35,7 @@
         "position": "HSE Professional",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Behavioral & Situational",
-        "question": "Deliver a safety toolbox talk right now to a large group of maintenance contractors as if you are standing in front of them.",
+        "question": "Deliver a safety talk as if addressing a group of employees.",
         "answer": "",
         "contributor": "Kashif Rehman"
     },
@@ -45,7 +45,7 @@
         "position": "HSE Professional",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Behavioral & Situational",
-        "question": "As the safety officer, if production and maintenance teams pressure you to allow a critical job to continue despite missing essential safety documents, what would you do?",
+        "question": "If the maintenance and production teams pressure you to let a job continue despite missing required documentation, what would you do?",
         "answer": "",
         "contributor": "Kashif Rehman"
     },
@@ -55,17 +55,237 @@
         "position": "Field Operator",
         "difficulty": "Senior-Level (8-15 years)",
         "category": "Behavioral & Situational",
-        "question": "Tell me about yourself, your background, and your key professional milestones.",
+        "question": "Tell me about yourself.",
         "answer": "",
         "contributor": "Anonymous"
     },
     {
         "id": "bhv_7",
         "industry": "General / Core Operations",
-        "position": "Panel / DCS Operator",
+        "position": "Field Operator",
+        "difficulty": "Senior-Level (8-15 years)",
+        "category": "Behavioral & Situational",
+        "question": "Why do you want to join our company?",
+        "answer": "",
+        "contributor": "Anonymous"
+    },
+    {
+        "id": "bhv_8",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Behavioral & Situational",
-        "question": "Can you describe your current Job Description (JD) and map your day-to-day operations experience to this role?",
+        "question": "Have you ever handled a major accident or incident at your plant?",
+        "answer": "",
+        "contributor": "Arslan Afzal"
+    },
+    {
+        "id": "bhv_9",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "Why do you want to join our company?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "bhv_10",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "Why should we hire you?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "bhv_11",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "Describe a difficult situation you handled at work.",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "bhv_12",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "How do you handle pressure?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "bhv_13",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "Describe a conflict with a coworker and how you resolved it.",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "bhv_14",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "What are your strengths?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "bhv_15",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "What is your biggest weakness?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "bhv_16",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "Where do you see yourself in five years?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "bhv_17",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "Why are you leaving your current job?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "bhv_18",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "Describe a time you made a mistake at work.",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "bhv_19",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "How do you prioritize multiple tasks?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "bhv_20",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "Tell us about a successful team project you were part of.",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "bhv_21",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "How do you handle criticism?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "bhv_22",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "Are you willing to work shifts?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "bhv_23",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "How do you ensure safety while working?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "bhv_24",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "What motivates you?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "bhv_25",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "How do you deal with an emergency at work?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "bhv_26",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "Describe a time you improved a process.",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "bhv_27",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "Do you have any questions for us?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "bhv_28",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "Describe yourself.",
+        "answer": "",
+        "contributor": "Ali Ahmed"
+    },
+    {
+        "id": "bhv_29",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Behavioral & Situational",
+        "question": "What is your job description (JD) based on your experience?",
         "answer": "",
         "contributor": "Ali Ahmed"
     }

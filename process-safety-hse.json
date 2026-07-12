@@ -5,7 +5,7 @@
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Safety & HSE",
-        "question": "What is the meaning and significance of LEL (Lower Explosive Limit) and UEL (Upper Explosive Limit)?",
+        "question": "What is LEL (Lower Explosive Limit) and UEL (Upper Explosive Limit)?",
         "answer": "",
         "contributor": "Muhammad Abubakar"
     },
@@ -15,7 +15,7 @@
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Safety & HSE",
-        "question": "What are the specific LEL (Lower Explosive Limit) values for Ammonia (NH3) and Hydrogen (H2)?",
+        "question": "What is the LEL of NH3 (ammonia) and H2 (hydrogen)?",
         "answer": "",
         "contributor": "Muhammad Abubakar"
     },
@@ -25,7 +25,7 @@
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Safety & HSE",
-        "question": "What is a Job Safety Analysis (JSA) and how is it developed?",
+        "question": "What is a JSA (Job Safety Analysis)?",
         "answer": "",
         "contributor": "Muhammad Abubakar"
     },
@@ -35,9 +35,9 @@
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Safety & HSE",
-        "question": "What is the exact protocol and step-by-step entry procedure for a confined space?",
+        "question": "If gas is detected during an LEL survey of your work area, how would you proceed with your job?",
         "answer": "",
-        "contributor": "Muhammad Noman"
+        "contributor": "Muhammad Abubakar"
     },
     {
         "id": "safe_5",
@@ -45,7 +45,7 @@
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Safety & HSE",
-        "question": "What safety verification checks must be completed before signing off on a Hot Work Permit?",
+        "question": "What is the confined space entry protocol?",
         "answer": "",
         "contributor": "Muhammad Noman"
     },
@@ -55,7 +55,7 @@
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Safety & HSE",
-        "question": "What is the difference between a Toolbox Talk (TBT) and a Job Safety Analysis (JSA)?",
+        "question": "What checks are required before issuing a hot work permit?",
         "answer": "",
         "contributor": "Muhammad Noman"
     },
@@ -65,7 +65,7 @@
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Safety & HSE",
-        "question": "Why do we systematically perform a Job Safety Analysis (JSA) on the plant before conducting maintenance?",
+        "question": "What is the difference between a Toolbox Talk (TBT) and a JSA?",
         "answer": "",
         "contributor": "Muhammad Noman"
     },
@@ -75,7 +75,7 @@
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Safety & HSE",
-        "question": "What constitutes a 'zero energy demonstration' during a mechanical isolation procedure?",
+        "question": "Why is a JSA performed before starting plant work?",
         "answer": "",
         "contributor": "Muhammad Noman"
     },
@@ -85,19 +85,19 @@
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Safety & HSE",
-        "question": "How many safety procedures, permits, or specific certificates are required to execute a maintenance job inside hydrocarbon tanks?",
+        "question": "What is a zero energy demonstration?",
         "answer": "",
         "contributor": "Muhammad Noman"
     },
     {
         "id": "safe_10",
         "industry": "General / Core Operations",
-        "position": "HSE Professional",
+        "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Safety & HSE",
-        "question": "What are the IDLH (Immediately Dangerous to Life or Health) limits for H2S, NH3, and CO?",
+        "question": "How many procedures/certificates are required to carry out work on hydrocarbon storage tanks?",
         "answer": "",
-        "contributor": "Kashif Rehman"
+        "contributor": "Muhammad Noman"
     },
     {
         "id": "safe_11",
@@ -105,7 +105,7 @@
         "position": "HSE Professional",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Safety & HSE",
-        "question": "What is a Safety Management System (SMS) and what are its core pillars in a high-hazard plant?",
+        "question": "What are the IDLH (Immediately Dangerous to Life or Health) values of H2S, NH3, and CO?",
         "answer": "",
         "contributor": "Kashif Rehman"
     },
@@ -115,7 +115,7 @@
         "position": "HSE Professional",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Safety & HSE",
-        "question": "What is LOTOTO (Lock-Out, Tag-Out, Try-Out) and why is the validation step crucial?",
+        "question": "What is a Safety Management System (SMS)?",
         "answer": "",
         "contributor": "Kashif Rehman"
     },
@@ -125,7 +125,7 @@
         "position": "HSE Professional",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Safety & HSE",
-        "question": "What are the unique hazards of a confined space, and how do they change when the space is a deep excavation pit?",
+        "question": "What is LOTOTO (Lockout/Tagout/Tryout), and why is it important?",
         "answer": "",
         "contributor": "Kashif Rehman"
     },
@@ -135,17 +135,17 @@
         "position": "HSE Professional",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Safety & HSE",
-        "question": "What documentation and permits are mandatory before authorizing work in a combined confined space and excavation job?",
+        "question": "What are the hazards associated with confined space work, particularly relating to excavation?",
         "answer": "",
         "contributor": "Kashif Rehman"
     },
     {
         "id": "safe_15",
-        "industry": "Refinery & Petrochemical",
+        "industry": "General / Core Operations",
         "position": "HSE Professional",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Safety & HSE",
-        "question": "Which standard NFPA codes are most applicable to industrial refinery operations and fire protection?",
+        "question": "What documents are required for confined space entry and excavation work?",
         "answer": "",
         "contributor": "Kashif Rehman"
     },
@@ -155,38 +155,278 @@
         "position": "HSE Professional",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Safety & HSE",
-        "question": "Can you outline the fixed and mobile fire fighting facilities available in your current industrial plant?",
+        "question": "Which NFPA codes are relevant to industrial fire safety?",
         "answer": "",
         "contributor": "Kashif Rehman"
     },
     {
         "id": "safe_17",
         "industry": "General / Core Operations",
-        "position": "Panel / DCS Operator",
+        "position": "HSE Professional",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Safety & HSE",
-        "question": "What is the safe handover procedure for transferring a confined space from operations to the maintenance team?",
+        "question": "What firefighting facilities should be available at an industrial plant?",
         "answer": "",
-        "contributor": "Anonymous"
+        "contributor": "Kashif Rehman"
     },
     {
         "id": "safe_18",
         "industry": "General / Core Operations",
-        "position": "Panel / DCS Operator",
+        "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Safety & HSE",
-        "question": "What is the isolation, draining, flushing, and handover procedure for a pump in a hazardous fluid service?",
+        "question": "What is a confined space, and what are the main checks required before entry?",
         "answer": "",
-        "contributor": "Anonymous"
+        "contributor": "Arslan Afzal"
     },
     {
         "id": "safe_19",
         "industry": "General / Core Operations",
-        "position": "Panel / DCS Operator",
+        "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Safety & HSE",
-        "question": "What are the primary components of a Permit to Work (PTW) system, and when are complementary certificates like gas testing or hot work mandatory?",
+        "question": "What is LEL (Lower Explosive Limit)?",
         "answer": "",
-        "contributor": "Anonymous"
+        "contributor": "Arslan Afzal"
+    },
+    {
+        "id": "safe_20",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Senior-Level (8-15 years)",
+        "category": "Process Safety & HSE",
+        "question": "What is a hot work permit?",
+        "answer": "",
+        "contributor": "Nabeel Sabir"
+    },
+    {
+        "id": "safe_21",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Senior-Level (8-15 years)",
+        "category": "Process Safety & HSE",
+        "question": "What is hot tapping, and how is hot job preparation carried out?",
+        "answer": "",
+        "contributor": "Nabeel Sabir"
+    },
+    {
+        "id": "safe_22",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Safety & HSE",
+        "question": "What is a Permit to Work (PTW)?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "safe_23",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Safety & HSE",
+        "question": "Explain the Lockout/Tagout (LOTO) procedure.",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "safe_24",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Safety & HSE",
+        "question": "What are the requirements for confined space entry?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "safe_25",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Safety & HSE",
+        "question": "What gases are checked before confined space entry?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "safe_26",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Safety & HSE",
+        "question": "What PPE is required for hot work?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "safe_27",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Safety & HSE",
+        "question": "What is the difference between a hot work permit and a cold work permit?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "safe_28",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Safety & HSE",
+        "question": "What would you do if you discovered a gas leak?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "safe_29",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Safety & HSE",
+        "question": "Explain the emergency evacuation procedure.",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "safe_30",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Safety & HSE",
+        "question": "What is the purpose of a Job Safety Analysis (JSA)?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "safe_31",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Safety & HSE",
+        "question": "What is a Toolbox Talk?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "safe_32",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Safety & HSE",
+        "question": "Explain the fire triangle.",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "safe_33",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Safety & HSE",
+        "question": "What are the types of fire extinguishers and their uses?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "safe_34",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Safety & HSE",
+        "question": "What is the purpose of an Emergency Shutdown (ESD) system?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "safe_35",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Safety & HSE",
+        "question": "What is a Near Miss?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "safe_36",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Safety & HSE",
+        "question": "What is the meaning of HAZOP (Hazard and Operability Study)?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "safe_37",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Safety & HSE",
+        "question": "How do you respond to a chemical spill?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "safe_38",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Safety & HSE",
+        "question": "What are the responsibilities of a permit receiver?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "safe_39",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Safety & HSE",
+        "question": "Explain the importance of housekeeping in industrial safety.",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "safe_40",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Safety & HSE",
+        "question": "What is the fire pentagon?",
+        "answer": "",
+        "contributor": "Yaseen Haroon"
+    },
+    {
+        "id": "safe_41",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Safety & HSE",
+        "question": "What is LEL, and what are its acceptable ranges?",
+        "answer": "",
+        "contributor": "Yaseen Haroon"
+    },
+    {
+        "id": "safe_42",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Safety & HSE",
+        "question": "Explain the confined space handover procedure.",
+        "answer": "",
+        "contributor": "Naveed Rao"
+    },
+    {
+        "id": "safe_43",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Process Safety & HSE",
+        "question": "Explain the emergency response and communication procedure during a plant emergency.",
+        "answer": "",
+        "contributor": "Naveed Rao"
     }
 ]

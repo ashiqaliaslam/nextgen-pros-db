@@ -1,11 +1,11 @@
 [
     {
         "id": "eq_1",
-        "industry": "Oil & Gas",
+        "industry": "General / Core Operations",
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Equipment & Unit Operations",
-        "question": "What is distillation and what is the effect of pressure on the distillation process?",
+        "question": "What are the tripping logics of a compressor?",
         "answer": "",
         "contributor": "Muhammad Abubakar"
     },
@@ -15,29 +15,29 @@
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Equipment & Unit Operations",
-        "question": "How do you ensure the priming of a pump in a closed circuit?",
+        "question": "What is distillation, and what is the effect of pressure on distillation?",
         "answer": "",
         "contributor": "Muhammad Abubakar"
     },
     {
         "id": "eq_3",
         "industry": "General / Core Operations",
-        "position": "Trainee / Apprentice",
-        "difficulty": "Entry-Level (0-2 years)",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
         "category": "Equipment & Unit Operations",
-        "question": "What is a centrifugal pump and how does it operate?",
+        "question": "During a pump changeover, how do you ensure the standby pump has taken the load?",
         "answer": "",
-        "contributor": "Anonymous"
+        "contributor": "Muhammad Abubakar"
     },
     {
         "id": "eq_4",
         "industry": "General / Core Operations",
-        "position": "Trainee / Apprentice",
-        "difficulty": "Entry-Level (0-2 years)",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
         "category": "Equipment & Unit Operations",
-        "question": "What are the different types of impellers used in centrifugal pumps?",
+        "question": "In a closed circuit, how do you ensure proper priming of a pump?",
         "answer": "",
-        "contributor": "Anonymous"
+        "contributor": "Muhammad Abubakar"
     },
     {
         "id": "eq_5",
@@ -45,7 +45,7 @@
         "position": "Trainee / Apprentice",
         "difficulty": "Entry-Level (0-2 years)",
         "category": "Equipment & Unit Operations",
-        "question": "What are the main components and parts of a centrifugal pump?",
+        "question": "Explain the working principle of a centrifugal pump.",
         "answer": "",
         "contributor": "Anonymous"
     },
@@ -55,7 +55,7 @@
         "position": "Trainee / Apprentice",
         "difficulty": "Entry-Level (0-2 years)",
         "category": "Equipment & Unit Operations",
-        "question": "What is Net Positive Suction Head (NPSH) and why is it critical for pump operation?",
+        "question": "What are the different types of impellers used in centrifugal pumps?",
         "answer": "",
         "contributor": "Anonymous"
     },
@@ -65,39 +65,39 @@
         "position": "Trainee / Apprentice",
         "difficulty": "Entry-Level (0-2 years)",
         "category": "Equipment & Unit Operations",
-        "question": "What is pump priming and why is it necessary before starting a centrifugal pump?",
+        "question": "What are the main parts of a centrifugal pump?",
         "answer": "",
         "contributor": "Anonymous"
     },
     {
         "id": "eq_8",
-        "industry": "Oil & Gas",
-        "position": "Field Operator",
-        "difficulty": "Mid-Level (3-7 years)",
+        "industry": "General / Core Operations",
+        "position": "Trainee / Apprentice",
+        "difficulty": "Entry-Level (0-2 years)",
         "category": "Equipment & Unit Operations",
-        "question": "Why do we use demineralized (DM) water in an Amine unit?",
+        "question": "What is NPSH (Net Positive Suction Head)?",
         "answer": "",
-        "contributor": "Muhammad Noman"
+        "contributor": "Anonymous"
     },
     {
         "id": "eq_9",
-        "industry": "Oil & Gas",
-        "position": "Field Operator",
-        "difficulty": "Mid-Level (3-7 years)",
+        "industry": "General / Core Operations",
+        "position": "Trainee / Apprentice",
+        "difficulty": "Entry-Level (0-2 years)",
         "category": "Equipment & Unit Operations",
-        "question": "What is amine loading and how is it monitored?",
+        "question": "What is cavitation in a centrifugal pump?",
         "answer": "",
-        "contributor": "Muhammad Noman"
+        "contributor": "Anonymous"
     },
     {
         "id": "eq_10",
-        "industry": "Oil & Gas",
-        "position": "Field Operator",
-        "difficulty": "Mid-Level (3-7 years)",
+        "industry": "General / Core Operations",
+        "position": "Trainee / Apprentice",
+        "difficulty": "Entry-Level (0-2 years)",
         "category": "Equipment & Unit Operations",
-        "question": "Can you explain the process flow of the inlet receiving section?",
+        "question": "What is priming in a centrifugal pump?",
         "answer": "",
-        "contributor": "Muhammad Noman"
+        "contributor": "Anonymous"
     },
     {
         "id": "eq_11",
@@ -105,7 +105,7 @@
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Equipment & Unit Operations",
-        "question": "What is skimming in the context of amine unit operations and why is it performed?",
+        "question": "Why is demineralized (demin) water used in the Amine unit?",
         "answer": "",
         "contributor": "Muhammad Noman"
     },
@@ -115,7 +115,7 @@
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Equipment & Unit Operations",
-        "question": "Why do we pass gas through the catalytic reactor in a Sulfur Recovery Unit (SRU)?",
+        "question": "What is amine loading?",
         "answer": "",
         "contributor": "Muhammad Noman"
     },
@@ -125,7 +125,7 @@
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Equipment & Unit Operations",
-        "question": "What is the primary purpose of seal legs in a Sulfur Recovery Unit (SRU)?",
+        "question": "Explain the flow of the inlet receiving section.",
         "answer": "",
         "contributor": "Muhammad Noman"
     },
@@ -135,88 +135,438 @@
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Equipment & Unit Operations",
-        "question": "Why do we route process gas through a Low Temperature Separator (LTS)?",
+        "question": "Why is a differential pressure (DP) maintained between the amine and sour gas streams?",
         "answer": "",
         "contributor": "Muhammad Noman"
     },
     {
         "id": "eq_15",
-        "industry": "General / Core Operations",
-        "position": "HSE Professional",
+        "industry": "Oil & Gas",
+        "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Equipment & Unit Operations",
-        "question": "What are the different types of industrial pumps and their specific application criteria?",
+        "question": "What is skimming in the amine unit?",
         "answer": "",
-        "contributor": "Kashif Rehman"
+        "contributor": "Muhammad Noman"
     },
     {
         "id": "eq_16",
+        "industry": "Oil & Gas",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "Why is gas passed from the reactor in the SRU (Sulfur Recovery Unit)?",
+        "answer": "",
+        "contributor": "Muhammad Noman"
+    },
+    {
+        "id": "eq_17",
+        "industry": "Oil & Gas",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "What is the purpose of seal legs in the SRU?",
+        "answer": "",
+        "contributor": "Muhammad Noman"
+    },
+    {
+        "id": "eq_18",
+        "industry": "Oil & Gas",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "Why is the RVP (Reid Vapor Pressure) of crude oil controlled?",
+        "answer": "",
+        "contributor": "Muhammad Noman"
+    },
+    {
+        "id": "eq_19",
+        "industry": "Oil & Gas",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "Why is gas passed from the LTS (Low Temperature Separator)?",
+        "answer": "",
+        "contributor": "Muhammad Noman"
+    },
+    {
+        "id": "eq_20",
         "industry": "General / Core Operations",
         "position": "HSE Professional",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Equipment & Unit Operations",
-        "question": "What is plant maintenance and what are the main differences between preventive, breakdown, and predictive maintenance?",
+        "question": "What are the different types of pumps?",
         "answer": "",
         "contributor": "Kashif Rehman"
     },
     {
-        "id": "eq_17",
-        "industry": "Power Generation & Utilities",
-        "position": "Field Operator",
-        "difficulty": "Senior-Level (8-15 years)",
-        "category": "Equipment & Unit Operations",
-        "question": "Can you explain the function and process flow of a Deaerator within the Boiler Feed Water (BFW) system?",
-        "answer": "",
-        "contributor": "Anonymous"
-    },
-    {
-        "id": "eq_18",
-        "industry": "Power Generation & Utilities",
-        "position": "Panel / DCS Operator",
-        "difficulty": "Mid-Level (3-7 years)",
-        "category": "Equipment & Unit Operations",
-        "question": "What is the specific role and step-by-step responsibilities of a field/rover operator during a cold boiler start-up?",
-        "answer": "",
-        "contributor": "Anonymous"
-    },
-    {
-        "id": "eq_19",
-        "industry": "Power Generation & Utilities",
-        "position": "Panel / DCS Operator",
-        "difficulty": "Mid-Level (3-7 years)",
-        "category": "Equipment & Unit Operations",
-        "question": "What is the correct procedure to warm up, line up, and pressurize a main steam header line?",
-        "answer": "",
-        "contributor": "Anonymous"
-    },
-    {
-        "id": "eq_20",
-        "industry": "Power Generation & Utilities",
-        "position": "Panel / DCS Operator",
-        "difficulty": "Mid-Level (3-7 years)",
-        "category": "Equipment & Unit Operations",
-        "question": "What are the key cooling water chemistry parameters (such as pH, conductivity, and hardness) that must be monitored, and why do they matter?",
-        "answer": "",
-        "contributor": "Anonymous"
-    },
-    {
         "id": "eq_21",
-        "industry": "Power Generation & Utilities",
-        "position": "Panel / DCS Operator",
+        "industry": "General / Core Operations",
+        "position": "HSE Professional",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Equipment & Unit Operations",
-        "question": "How does a flare knock-out drum/boot system operate to separate liquid hydrocarbons before flaring gas?",
+        "question": "What is maintenance, and what are its different types?",
         "answer": "",
-        "contributor": "Anonymous"
+        "contributor": "Kashif Rehman"
     },
     {
         "id": "eq_22",
-        "industry": "Power Generation & Utilities",
-        "position": "Panel / DCS Operator",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Equipment & Unit Operations",
-        "question": "What are the essential permissive conditions and steps required for a gas turbine start-up and normal shutdown sequence?",
+        "question": "What is a compressor, and how does it work?",
         "answer": "",
-        "contributor": "Anonymous"
+        "contributor": "Arslan Afzal"
+    },
+    {
+        "id": "eq_23",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "What is antisurge, and how does antisurge control work in a compressor?",
+        "answer": "",
+        "contributor": "Arslan Afzal"
+    },
+    {
+        "id": "eq_24",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "What is latent heat?",
+        "answer": "",
+        "contributor": "Arslan Afzal"
+    },
+    {
+        "id": "eq_25",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "What is flow rate?",
+        "answer": "",
+        "contributor": "Arslan Afzal"
+    },
+    {
+        "id": "eq_26",
+        "industry": "Oil & Gas",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "What is the purpose of a De-ethanizer?",
+        "answer": "",
+        "contributor": "Muhammad Noman"
+    },
+    {
+        "id": "eq_27",
+        "industry": "Oil & Gas",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "How do you maintain the RVP of LPG?",
+        "answer": "",
+        "contributor": "Muhammad Noman"
+    },
+    {
+        "id": "eq_28",
+        "industry": "Oil & Gas",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "Why is it important to maintain the RVP of LPG?",
+        "answer": "",
+        "contributor": "Muhammad Noman"
+    },
+    {
+        "id": "eq_29",
+        "industry": "Oil & Gas",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "What is HCDP (Hydrocarbon Dew Point)?",
+        "answer": "",
+        "contributor": "Muhammad Noman"
+    },
+    {
+        "id": "eq_30",
+        "industry": "Oil & Gas",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "Why is the HCDP of hydrocarbons maintained?",
+        "answer": "",
+        "contributor": "Muhammad Noman"
+    },
+    {
+        "id": "eq_31",
+        "industry": "Oil & Gas",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "Why are mole sieve dryers used on LPG, and what is their purpose?",
+        "answer": "",
+        "contributor": "Muhammad Noman"
+    },
+    {
+        "id": "eq_32",
+        "industry": "Oil & Gas",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "What is the outlet temperature of a turbo-expander?",
+        "answer": "",
+        "contributor": "Muhammad Noman"
+    },
+    {
+        "id": "eq_33",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "How do you hand over a pump to the maintenance team?",
+        "answer": "",
+        "contributor": "Muhammad Noman"
+    },
+    {
+        "id": "eq_34",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "Explain the working principle of a centrifugal pump.",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "eq_35",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "What is cavitation, and how can it be prevented?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "eq_36",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "What is the difference between centrifugal and reciprocating pumps?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "eq_37",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "Explain the working of a multistage air compressor.",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "eq_38",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "What is NPSH, and why is it important?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "eq_39",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "What is the difference between a pressure relief valve (PRV) and a pressure safety valve (PSV)?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "eq_40",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "Explain the working of a shell and tube heat exchanger.",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "eq_41",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "What is water hammer?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "eq_42",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "What is the purpose of a steam trap?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "eq_43",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "What is the function of an expansion tank?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "eq_44",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "Explain the process of boiler blowdown.",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "eq_45",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "What parameters should be checked before starting a pump?",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "eq_46",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "Explain the working of a cooling tower.",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "eq_47",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "Describe the startup and shutdown procedure of a boiler.",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "eq_48",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "Explain the purpose of a safety valve.",
+        "answer": "",
+        "contributor": "Hamza Zafar"
+    },
+    {
+        "id": "eq_49",
+        "industry": "Power Generation & Utilities",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "What are the auxiliaries of a CFBC (Circulating Fluidized Bed Combustion) boiler?",
+        "answer": "",
+        "contributor": "Yaseen Haroon"
+    },
+    {
+        "id": "eq_50",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "Describe the role of a rover operator during boiler start-up.",
+        "answer": "",
+        "contributor": "Naveed Rao"
+    },
+    {
+        "id": "eq_51",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "Explain the steam header line-up procedure.",
+        "answer": "",
+        "contributor": "Naveed Rao"
+    },
+    {
+        "id": "eq_52",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "Explain the hazardous service pump handover procedure.",
+        "answer": "",
+        "contributor": "Naveed Rao"
+    },
+    {
+        "id": "eq_53",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "What do you know about cooling water chemistry and its importance?",
+        "answer": "",
+        "contributor": "Naveed Rao"
+    },
+    {
+        "id": "eq_54",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "What is a flare boot/knockout drum system, and what is its function?",
+        "answer": "",
+        "contributor": "Naveed Rao"
+    },
+    {
+        "id": "eq_55",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "Explain the PRV changeover and handover procedure.",
+        "answer": "",
+        "contributor": "Naveed Rao"
+    },
+    {
+        "id": "eq_56",
+        "industry": "Power Generation & Utilities",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "Explain the gas turbine start-up procedure.",
+        "answer": "",
+        "contributor": "Naveed Rao"
+    },
+    {
+        "id": "eq_57",
+        "industry": "Power Generation & Utilities",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "Explain the gas turbine shutdown procedure.",
+        "answer": "",
+        "contributor": "Naveed Rao"
     }
 ]
