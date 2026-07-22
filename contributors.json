@@ -10,8 +10,13 @@
         "linkedin": ""
     },
     {
-        "name": "Naveed Rao",
-        "role": "Field Operator (Lead Turbine)",
+        "name": "Muhammad Imran",
+        "role": "Field Operator (Boiler Control)",
+        "linkedin": ""
+    },
+    {
+        "name": "Syed Kifayat Shah",
+        "role": "Field Operator",
         "linkedin": ""
     },
     {
@@ -20,8 +25,38 @@
         "linkedin": "https://www.linkedin.com/in/kashif-rehman-101475218"
     },
     {
-        "name": "Muhammad Imran",
-        "role": "Field Operator (Boiler Control)",
+        "name": "Muhammad Salman",
+        "role": "Field Operator",
+        "linkedin": ""
+    },
+    {
+        "name": "Aqib Ali",
+        "role": "Field Operator",
+        "linkedin": ""
+    },
+    {
+        "name": "Muhammad Zubair",
+        "role": "Field Operator",
+        "linkedin": ""
+    },
+    {
+        "name": "Arslan Afzal",
+        "role": "Field Operator",
+        "linkedin": ""
+    },
+    {
+        "name": "Nabeel Sabir",
+        "role": "Field Operator",
+        "linkedin": ""
+    },
+    {
+        "name": "Muzamil Zafar",
+        "role": "Field Operator",
+        "linkedin": "https://www.linkedin.com/in/muzamal"
+    },
+    {
+        "name": "Hamza Zafar",
+        "role": "Field Operator",
         "linkedin": ""
     }
 ]
