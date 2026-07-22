@@ -88,5 +88,15 @@
         "question": "Have you ever faced a surging issue in a compressor?",
         "answer": "",
         "contributor": "Yaseen Haroon"
+    },
+    {
+        "id": "trouble_10",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Troubleshooting & Emergencies",
+        "question": "What are your actions in case of a blackout?",
+        "answer": "Please answer as per your specific area.",
+        "contributor": "Ashique Ali"
     }
 ]
