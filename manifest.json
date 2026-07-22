@@ -1,26 +1,23 @@
 {
-    "version": "1.0.1",
-    "lastUpdated": "2026-07-11",
+    "data_version": "1.0.1",
+    "lastUpdated": "2026-07-22",
+    "latest_apk_version": "1.0.1",
+    "apk_download_url": "https://github.com/ashiqaliaslam/nextgen-pros/releases/latest",
     "files": [
         {
-            "name": "equipment-unit-ops.json",
-            "tag": "eq_"
+            "name": "equipment-unit-ops.json"
         },
         {
-            "name": "process-control-instrumentation.json",
-            "tag": "ctrl_"
+            "name": "process-control-instrumentation.json"
         },
         {
-            "name": "process-safety-hse.json",
-            "tag": "safe_"
+            "name": "process-safety-hse.json"
         },
         {
-            "name": "troubleshooting-emergencies.json",
-            "tag": "trouble_"
+            "name": "troubleshooting-emergencies.json"
         },
         {
-            "name": "behavioral-situational.json",
-            "tag": "bhv_"
+            "name": "behavioral-situational.json"
         }
     ]
 }
