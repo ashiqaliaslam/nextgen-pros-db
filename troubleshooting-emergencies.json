@@ -98,5 +98,15 @@
         "question": "What are your actions in case of a blackout?",
         "answer": "Please answer as per your specific area.",
         "contributor": "Ashique Ali"
+    },
+    {
+        "id": "trouble_11",
+        "industry": "General / Core Operations",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Troubleshooting & Emergencies",
+        "question": "What are your actions in case of a grave emergency",
+        "answer": "Please answer as per your specific area.",
+        "contributor": "Ashique Ali"
     }
 ]
