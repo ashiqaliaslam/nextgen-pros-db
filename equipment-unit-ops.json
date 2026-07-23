@@ -568,5 +568,15 @@
         "question": "Explain the gas turbine shutdown procedure.",
         "answer": "",
         "contributor": "Naveed Rao"
+    },
+    {
+        "id": "eq_58",
+        "industry": "Oil & Gas",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Equipment & Unit Operations",
+        "question": "Explain the types of trays used in columns.",
+        "answer": "1. Sieve Trays, 2. Valve Trays, 3. Bubble Cap Trays etc.",
+        "contributor": "Muhammad Hamid Raza"
     }
 ]
