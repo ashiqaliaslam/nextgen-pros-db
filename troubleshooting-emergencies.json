@@ -7,6 +7,7 @@
         "category": "Troubleshooting & Emergencies",
         "question": "How do you solve a cavitation problem in a pump?",
         "answer": "",
+        "contributorId": "",
         "contributor": "Anonymous"
     },
     {
@@ -17,6 +18,7 @@
         "category": "Troubleshooting & Emergencies",
         "question": "What are the causes of an increased burner block in an SRU (Sulfur Recovery Unit)?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
@@ -27,6 +29,7 @@
         "category": "Troubleshooting & Emergencies",
         "question": "What are the causes of foaming in an amine unit?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
@@ -37,6 +40,7 @@
         "category": "Troubleshooting & Emergencies",
         "question": "If a fire breaks out on the main natural gas line, what actions would you take?",
         "answer": "",
+        "contributorId": "c_06",
         "contributor": "Kashif Rehman"
     },
     {
@@ -47,6 +51,7 @@
         "category": "Troubleshooting & Emergencies",
         "question": "How do you avoid hydrate formation in LPG systems?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
@@ -57,6 +62,7 @@
         "category": "Troubleshooting & Emergencies",
         "question": "What actions would you take in the event of an LPG gas leak?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
@@ -67,6 +73,7 @@
         "category": "Troubleshooting & Emergencies",
         "question": "What causes pump vibration?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -77,6 +84,7 @@
         "category": "Troubleshooting & Emergencies",
         "question": "How do you troubleshoot a compressor trip?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -87,6 +95,7 @@
         "category": "Troubleshooting & Emergencies",
         "question": "Have you ever faced a surging issue in a compressor?",
         "answer": "",
+        "contributorId": "c_17",
         "contributor": "Yaseen Haroon"
     },
     {
@@ -97,7 +106,7 @@
         "category": "Troubleshooting & Emergencies",
         "question": "What are your actions in case of a blackout?",
         "answer": "Please answer as per your specific area.",
+        "contributorId": "c_01",
         "contributor": "Ashique Ali"
     }
-
 ]

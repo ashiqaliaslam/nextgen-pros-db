@@ -7,6 +7,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What are the tripping logics of a compressor?",
         "answer": "",
+        "contributorId": "c_02",
         "contributor": "Muhammad Abubakar"
     },
     {
@@ -17,6 +18,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What is distillation, and what is the effect of pressure on distillation?",
         "answer": "",
+        "contributorId": "c_02",
         "contributor": "Muhammad Abubakar"
     },
     {
@@ -27,6 +29,7 @@
         "category": "Equipment & Unit Operations",
         "question": "During a pump changeover, how do you ensure the standby pump has taken the load?",
         "answer": "",
+        "contributorId": "c_02",
         "contributor": "Muhammad Abubakar"
     },
     {
@@ -37,6 +40,7 @@
         "category": "Equipment & Unit Operations",
         "question": "In a closed circuit, how do you ensure proper priming of a pump?",
         "answer": "",
+        "contributorId": "c_02",
         "contributor": "Muhammad Abubakar"
     },
     {
@@ -47,6 +51,7 @@
         "category": "Equipment & Unit Operations",
         "question": "Explain the working principle of a centrifugal pump.",
         "answer": "",
+        "contributorId": "",
         "contributor": "Anonymous"
     },
     {
@@ -57,6 +62,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What are the different types of impellers used in centrifugal pumps?",
         "answer": "",
+        "contributorId": "",
         "contributor": "Anonymous"
     },
     {
@@ -67,6 +73,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What are the main parts of a centrifugal pump?",
         "answer": "",
+        "contributorId": "",
         "contributor": "Anonymous"
     },
     {
@@ -77,6 +84,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What is NPSH (Net Positive Suction Head)?",
         "answer": "",
+        "contributorId": "",
         "contributor": "Anonymous"
     },
     {
@@ -87,6 +95,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What is cavitation in a centrifugal pump?",
         "answer": "",
+        "contributorId": "",
         "contributor": "Anonymous"
     },
     {
@@ -97,6 +106,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What is priming in a centrifugal pump?",
         "answer": "",
+        "contributorId": "",
         "contributor": "Anonymous"
     },
     {
@@ -107,6 +117,7 @@
         "category": "Equipment & Unit Operations",
         "question": "Why is demineralized (demin) water used in the Amine unit?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
@@ -117,6 +128,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What is amine loading?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
@@ -127,6 +139,7 @@
         "category": "Equipment & Unit Operations",
         "question": "Explain the flow of the inlet receiving section.",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
@@ -137,6 +150,7 @@
         "category": "Equipment & Unit Operations",
         "question": "Why is a differential pressure (DP) maintained between the amine and sour gas streams?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
@@ -147,6 +161,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What is skimming in the amine unit?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
@@ -157,6 +172,7 @@
         "category": "Equipment & Unit Operations",
         "question": "Why is gas passed from the reactor in the SRU (Sulfur Recovery Unit)?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
@@ -167,6 +183,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What is the purpose of seal legs in the SRU?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
@@ -177,6 +194,7 @@
         "category": "Equipment & Unit Operations",
         "question": "Why is the RVP (Reid Vapor Pressure) of crude oil controlled?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
@@ -187,6 +205,7 @@
         "category": "Equipment & Unit Operations",
         "question": "Why is gas passed from the LTS (Low Temperature Separator)?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
@@ -197,6 +216,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What are the different types of pumps?",
         "answer": "",
+        "contributorId": "c_06",
         "contributor": "Kashif Rehman"
     },
     {
@@ -207,6 +227,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What is maintenance, and what are its different types?",
         "answer": "",
+        "contributorId": "c_06",
         "contributor": "Kashif Rehman"
     },
     {
@@ -217,6 +238,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What is a compressor, and how does it work?",
         "answer": "",
+        "contributorId": "c_10",
         "contributor": "Arslan Afzal"
     },
     {
@@ -227,6 +249,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What is antisurge, and how does antisurge control work in a compressor?",
         "answer": "",
+        "contributorId": "c_10",
         "contributor": "Arslan Afzal"
     },
     {
@@ -237,6 +260,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What is latent heat?",
         "answer": "",
+        "contributorId": "c_10",
         "contributor": "Arslan Afzal"
     },
     {
@@ -247,6 +271,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What is flow rate?",
         "answer": "",
+        "contributorId": "c_10",
         "contributor": "Arslan Afzal"
     },
     {
@@ -257,6 +282,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What is the purpose of a De-ethanizer?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
@@ -267,6 +293,7 @@
         "category": "Equipment & Unit Operations",
         "question": "How do you maintain the RVP of LPG?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
@@ -277,6 +304,7 @@
         "category": "Equipment & Unit Operations",
         "question": "Why is it important to maintain the RVP of LPG?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
@@ -287,6 +315,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What is HCDP (Hydrocarbon Dew Point)?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
@@ -297,6 +326,7 @@
         "category": "Equipment & Unit Operations",
         "question": "Why is the HCDP of hydrocarbons maintained?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
@@ -307,6 +337,7 @@
         "category": "Equipment & Unit Operations",
         "question": "Why are mole sieve dryers used on LPG, and what is their purpose?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
@@ -317,6 +348,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What is the outlet temperature of a turbo-expander?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
@@ -327,6 +359,7 @@
         "category": "Equipment & Unit Operations",
         "question": "How do you hand over a pump to the maintenance team?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
@@ -337,6 +370,7 @@
         "category": "Equipment & Unit Operations",
         "question": "Explain the working principle of a centrifugal pump.",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -347,6 +381,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What is cavitation, and how can it be prevented?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -357,6 +392,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What is the difference between centrifugal and reciprocating pumps?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -367,6 +403,7 @@
         "category": "Equipment & Unit Operations",
         "question": "Explain the working of a multistage air compressor.",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -377,6 +414,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What is NPSH, and why is it important?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -387,6 +425,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What is the difference between a pressure relief valve (PRV) and a pressure safety valve (PSV)?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -397,6 +436,7 @@
         "category": "Equipment & Unit Operations",
         "question": "Explain the working of a shell and tube heat exchanger.",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -407,6 +447,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What is water hammer?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -417,6 +458,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What is the purpose of a steam trap?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -427,6 +469,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What is the function of an expansion tank?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -437,6 +480,7 @@
         "category": "Equipment & Unit Operations",
         "question": "Explain the process of boiler blowdown.",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -447,6 +491,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What parameters should be checked before starting a pump?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -457,6 +502,7 @@
         "category": "Equipment & Unit Operations",
         "question": "Explain the working of a cooling tower.",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -467,6 +513,7 @@
         "category": "Equipment & Unit Operations",
         "question": "Describe the startup and shutdown procedure of a boiler.",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -475,8 +522,10 @@
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Equipment & Unit Operations",
+        "Equipment & Unit Operations",
         "question": "Explain the purpose of a safety valve.",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -487,6 +536,7 @@
         "category": "Equipment & Unit Operations",
         "question": "What are the auxiliaries of a CFBC (Circulating Fluidized Bed Combustion) boiler?",
         "answer": "",
+        "contributorId": "c_17",
         "contributor": "Yaseen Haroon"
     },
     {
@@ -497,7 +547,8 @@
         "category": "Equipment & Unit Operations",
         "question": "Describe the role of a rover operator during boiler start-up.",
         "answer": "",
-        "contributor": "Naveed Rao"
+        "contributorId": "c_15",
+        "contributor": "Muahmmad Naveed Toufeeq"
     },
     {
         "id": "eq_51",
@@ -507,7 +558,8 @@
         "category": "Equipment & Unit Operations",
         "question": "Explain the steam header line-up procedure.",
         "answer": "",
-        "contributor": "Naveed Rao"
+        "contributorId": "c_15",
+        "contributor": "Muahmmad Naveed Toufeeq"
     },
     {
         "id": "eq_52",
@@ -517,7 +569,8 @@
         "category": "Equipment & Unit Operations",
         "question": "Explain the hazardous service pump handover procedure.",
         "answer": "",
-        "contributor": "Naveed Rao"
+        "contributorId": "c_15",
+        "contributor": "Muahmmad Naveed Toufeeq"
     },
     {
         "id": "eq_53",
@@ -527,7 +580,8 @@
         "category": "Equipment & Unit Operations",
         "question": "What do you know about cooling water chemistry and its importance?",
         "answer": "",
-        "contributor": "Naveed Rao"
+        "contributorId": "c_15",
+        "contributor": "Muahmmad Naveed Toufeeq"
     },
     {
         "id": "eq_54",
@@ -537,7 +591,8 @@
         "category": "Equipment & Unit Operations",
         "question": "What is a flare boot/knockout drum system, and what is its function?",
         "answer": "",
-        "contributor": "Naveed Rao"
+        "contributorId": "c_15",
+        "contributor": "Muahmmad Naveed Toufeeq"
     },
     {
         "id": "eq_55",
@@ -547,7 +602,8 @@
         "category": "Equipment & Unit Operations",
         "question": "Explain the PRV changeover and handover procedure.",
         "answer": "",
-        "contributor": "Naveed Rao"
+        "contributorId": "c_15",
+        "contributor": "Muahmmad Naveed Toufeeq"
     },
     {
         "id": "eq_56",
@@ -557,7 +613,8 @@
         "category": "Equipment & Unit Operations",
         "question": "Explain the gas turbine start-up procedure.",
         "answer": "",
-        "contributor": "Naveed Rao"
+        "contributorId": "c_15",
+        "contributor": "Muahmmad Naveed Toufeeq"
     },
     {
         "id": "eq_57",
@@ -567,7 +624,8 @@
         "category": "Equipment & Unit Operations",
         "question": "Explain the gas turbine shutdown procedure.",
         "answer": "",
-        "contributor": "Naveed Rao"
+        "contributorId": "c_15",
+        "contributor": "Muahmmad Naveed Toufeeq"
     },
     {
         "id": "eq_58",
@@ -577,6 +635,7 @@
         "category": "Equipment & Unit Operations",
         "question": "Explain the types of trays used in columns.",
         "answer": "1. Sieve Trays, 2. Valve Trays, 3. Bubble Cap Trays etc.",
+        "contributorId": "c_16",
         "contributor": "Muhammad Hamid Raza"
     }
 ]

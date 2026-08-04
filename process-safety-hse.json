@@ -7,6 +7,7 @@
         "category": "Process Safety & HSE",
         "question": "What is LEL (Lower Explosive Limit) and UEL (Upper Explosive Limit)?",
         "answer": "",
+        "contributorId": "c_02",
         "contributor": "Muhammad Abubakar"
     },
     {
@@ -17,6 +18,7 @@
         "category": "Process Safety & HSE",
         "question": "What is the LEL of NH3 (ammonia) and H2 (hydrogen)?",
         "answer": "",
+        "contributorId": "c_02",
         "contributor": "Muhammad Abubakar"
     },
     {
@@ -27,6 +29,7 @@
         "category": "Process Safety & HSE",
         "question": "What is a JSA (Job Safety Analysis)?",
         "answer": "",
+        "contributorId": "c_02",
         "contributor": "Muhammad Abubakar"
     },
     {
@@ -37,66 +40,73 @@
         "category": "Process Safety & HSE",
         "question": "If gas is detected during an LEL survey of your work area, how would you proceed with your job?",
         "answer": "",
+        "contributorId": "c_02",
         "contributor": "Muhammad Abubakar"
     },
     {
         "id": "safe_5",
-        "industry": "General / Core Operations",
+        "industry": "Oil & Gas",
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Safety & HSE",
         "question": "What is the confined space entry protocol?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
         "id": "safe_6",
-        "industry": "General / Core Operations",
+        "industry": "Oil & Gas",
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Safety & HSE",
         "question": "What checks are required before issuing a hot work permit?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
         "id": "safe_7",
-        "industry": "General / Core Operations",
+        "industry": "Oil & Gas",
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Safety & HSE",
         "question": "What is the difference between a Toolbox Talk (TBT) and a JSA?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
         "id": "safe_8",
-        "industry": "General / Core Operations",
+        "industry": "Oil & Gas",
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Safety & HSE",
         "question": "Why is a JSA performed before starting plant work?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
         "id": "safe_9",
-        "industry": "General / Core Operations",
+        "industry": "Oil & Gas",
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Safety & HSE",
         "question": "What is a zero energy demonstration?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
         "id": "safe_10",
-        "industry": "General / Core Operations",
+        "industry": "Oil & Gas",
         "position": "Field Operator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Safety & HSE",
         "question": "How many procedures/certificates are required to carry out work on hydrocarbon storage tanks?",
         "answer": "",
+        "contributorId": "c_03",
         "contributor": "Muhammad Noman"
     },
     {
@@ -107,6 +117,7 @@
         "category": "Process Safety & HSE",
         "question": "What are the IDLH (Immediately Dangerous to Life or Health) values of H2S, NH3, and CO?",
         "answer": "",
+        "contributorId": "c_06",
         "contributor": "Kashif Rehman"
     },
     {
@@ -117,6 +128,7 @@
         "category": "Process Safety & HSE",
         "question": "What is a Safety Management System (SMS)?",
         "answer": "",
+        "contributorId": "c_06",
         "contributor": "Kashif Rehman"
     },
     {
@@ -127,6 +139,7 @@
         "category": "Process Safety & HSE",
         "question": "What is LOTOTO (Lockout/Tagout/Tryout), and why is it important?",
         "answer": "",
+        "contributorId": "c_06",
         "contributor": "Kashif Rehman"
     },
     {
@@ -137,6 +150,7 @@
         "category": "Process Safety & HSE",
         "question": "What are the hazards associated with confined space work, particularly relating to excavation?",
         "answer": "",
+        "contributorId": "c_06",
         "contributor": "Kashif Rehman"
     },
     {
@@ -147,6 +161,7 @@
         "category": "Process Safety & HSE",
         "question": "What documents are required for confined space entry and excavation work?",
         "answer": "",
+        "contributorId": "c_06",
         "contributor": "Kashif Rehman"
     },
     {
@@ -157,6 +172,7 @@
         "category": "Process Safety & HSE",
         "question": "Which NFPA codes are relevant to industrial fire safety?",
         "answer": "",
+        "contributorId": "c_06",
         "contributor": "Kashif Rehman"
     },
     {
@@ -167,6 +183,7 @@
         "category": "Process Safety & HSE",
         "question": "What firefighting facilities should be available at an industrial plant?",
         "answer": "",
+        "contributorId": "c_06",
         "contributor": "Kashif Rehman"
     },
     {
@@ -177,6 +194,7 @@
         "category": "Process Safety & HSE",
         "question": "What is a confined space, and what are the main checks required before entry?",
         "answer": "",
+        "contributorId": "c_10",
         "contributor": "Arslan Afzal"
     },
     {
@@ -187,6 +205,7 @@
         "category": "Process Safety & HSE",
         "question": "What is LEL (Lower Explosive Limit)?",
         "answer": "",
+        "contributorId": "c_10",
         "contributor": "Arslan Afzal"
     },
     {
@@ -197,6 +216,7 @@
         "category": "Process Safety & HSE",
         "question": "What is a hot work permit?",
         "answer": "",
+        "contributorId": "c_11",
         "contributor": "Nabeel Sabir"
     },
     {
@@ -207,6 +227,7 @@
         "category": "Process Safety & HSE",
         "question": "What is hot tapping, and how is hot job preparation carried out?",
         "answer": "",
+        "contributorId": "c_11",
         "contributor": "Nabeel Sabir"
     },
     {
@@ -217,6 +238,7 @@
         "category": "Process Safety & HSE",
         "question": "What is a Permit to Work (PTW)?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -227,6 +249,7 @@
         "category": "Process Safety & HSE",
         "question": "Explain the Lockout/Tagout (LOTO) procedure.",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -237,6 +260,7 @@
         "category": "Process Safety & HSE",
         "question": "What are the requirements for confined space entry?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -247,6 +271,7 @@
         "category": "Process Safety & HSE",
         "question": "What gases are checked before confined space entry?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -257,6 +282,7 @@
         "category": "Process Safety & HSE",
         "question": "What PPE is required for hot work?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -267,6 +293,7 @@
         "category": "Process Safety & HSE",
         "question": "What is the difference between a hot work permit and a cold work permit?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -277,6 +304,7 @@
         "category": "Process Safety & HSE",
         "question": "What would you do if you discovered a gas leak?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -287,6 +315,7 @@
         "category": "Process Safety & HSE",
         "question": "Explain the emergency evacuation procedure.",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -297,6 +326,7 @@
         "category": "Process Safety & HSE",
         "question": "What is the purpose of a Job Safety Analysis (JSA)?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -307,6 +337,7 @@
         "category": "Process Safety & HSE",
         "question": "What is a Toolbox Talk?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -317,6 +348,7 @@
         "category": "Process Safety & HSE",
         "question": "Explain the fire triangle.",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -327,6 +359,7 @@
         "category": "Process Safety & HSE",
         "question": "What are the types of fire extinguishers and their uses?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -337,6 +370,7 @@
         "category": "Process Safety & HSE",
         "question": "What is the purpose of an Emergency Shutdown (ESD) system?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -347,6 +381,7 @@
         "category": "Process Safety & HSE",
         "question": "What is a Near Miss?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -357,6 +392,7 @@
         "category": "Process Safety & HSE",
         "question": "What is the meaning of HAZOP (Hazard and Operability Study)?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -367,6 +403,7 @@
         "category": "Process Safety & HSE",
         "question": "How do you respond to a chemical spill?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -377,6 +414,7 @@
         "category": "Process Safety & HSE",
         "question": "What are the responsibilities of a permit receiver?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -387,6 +425,7 @@
         "category": "Process Safety & HSE",
         "question": "Explain the importance of housekeeping in industrial safety.",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -397,6 +436,7 @@
         "category": "Process Safety & HSE",
         "question": "What is the fire pentagon?",
         "answer": "",
+        "contributorId": "c_17",
         "contributor": "Yaseen Haroon"
     },
     {
@@ -407,6 +447,7 @@
         "category": "Process Safety & HSE",
         "question": "What is LEL, and what are its acceptable ranges?",
         "answer": "",
+        "contributorId": "c_17",
         "contributor": "Yaseen Haroon"
     },
     {
@@ -417,7 +458,8 @@
         "category": "Process Safety & HSE",
         "question": "Explain the confined space handover procedure.",
         "answer": "",
-        "contributor": "Naveed Rao"
+        "contributorId": "c_15",
+        "contributor": "Muahmmad Naveed Toufeeq"
     },
     {
         "id": "safe_43",
@@ -427,6 +469,7 @@
         "category": "Process Safety & HSE",
         "question": "Explain the emergency response and communication procedure during a plant emergency.",
         "answer": "",
-        "contributor": "Naveed Rao"
+        "contributorId": "c_15",
+        "contributor": "Muahmmad Naveed Toufeeq"
     }
 ]

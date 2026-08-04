@@ -1,61 +1,103 @@
 [
     {
+        "id": "c_01",
+        "name": "Ashique Ali",
+        "role": "Panel Operator & Mentor",
+        "linkedin": "https://www.linkedin.com/in/ashiqaliaslam"
+    },
+    {
+        "id": "c_02",
         "name": "Muhammad Abubakar",
         "role": "Field Operator (Process Specialist)",
         "linkedin": ""
     },
     {
+        "id": "c_03",
         "name": "Muhammad Noman",
         "role": "Field Operator (DCS SRU / Amine)",
         "linkedin": ""
     },
     {
+        "id": "c_04",
         "name": "Muhammad Imran",
         "role": "Field Operator (Boiler Control)",
         "linkedin": ""
     },
     {
+        "id": "c_05",
         "name": "Syed Kifayat Shah",
         "role": "Field Operator",
         "linkedin": ""
     },
     {
+        "id": "c_06",
         "name": "Kashif Rehman",
         "role": "Field Operator (Senior HSE)",
         "linkedin": "https://www.linkedin.com/in/kashif-rehman-101475218"
     },
     {
+        "id": "c_07",
         "name": "Muhammad Salman",
         "role": "Field Operator",
         "linkedin": ""
     },
     {
+        "id": "c_08",
         "name": "Aqib Ali",
         "role": "Field Operator",
         "linkedin": ""
     },
     {
+        "id": "c_09",
         "name": "Muhammad Zubair",
         "role": "Field Operator",
         "linkedin": ""
     },
     {
+        "id": "c_10",
         "name": "Arslan Afzal",
         "role": "Field Operator",
         "linkedin": ""
     },
     {
+        "id": "c_11",
         "name": "Nabeel Sabir",
         "role": "Field Operator",
         "linkedin": ""
     },
     {
+        "id": "c_12",
         "name": "Muzamil Zafar",
         "role": "Field Operator",
         "linkedin": ""
     },
     {
+        "id": "c_13",
         "name": "Hamza Zafar",
+        "role": "Field Operator",
+        "linkedin": ""
+    },
+    {
+        "id": "c_14",
+        "name": "Ali Ahmed",
+        "role": "Field Operator",
+        "linkedin": ""
+    },
+    {
+        "id": "c_15",
+        "name": "Muahmmad Naveed Toufeeq",
+        "role": "Utility Operator",
+        "linkedin": "https://www.linkedin.com/in/muahmmad-naveed-toufeeq-92083575/"
+    },
+    {
+        "id": "c_16",
+        "name": "Muhammad Hamid Raza",
+        "role": "Field Operator",
+        "linkedin": ""
+    },
+    {
+        "id": "c_17",
+        "name": "Yaseen Haroon",
         "role": "Field Operator",
         "linkedin": ""
     }

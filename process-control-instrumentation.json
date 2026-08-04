@@ -7,16 +7,18 @@
         "category": "Process Control & Instrumentation",
         "question": "How do you read a P&ID (Piping and Instrumentation Diagram)?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
         "id": "ctrl_2",
         "industry": "General / Core Operations",
-        "position": "Field Operator",
+        "position": "FieldOperator",
         "difficulty": "Mid-Level (3-7 years)",
         "category": "Process Control & Instrumentation",
         "question": "Explain the function of a control valve.",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -27,6 +29,7 @@
         "category": "Process Control & Instrumentation",
         "question": "What is the difference between gauge pressure and absolute pressure?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -37,6 +40,7 @@
         "category": "Process Control & Instrumentation",
         "question": "What is instrument air, and why is it required?",
         "answer": "",
+        "contributorId": "c_13",
         "contributor": "Hamza Zafar"
     },
     {
@@ -47,6 +51,7 @@
         "category": "Process Control & Instrumentation",
         "question": "How would you identify P&ID symbols and explain a control loop?",
         "answer": "",
-        "contributor": "Naveed Rao"
+        "contributorId": "c_15",
+        "contributor": "Muahmmad Naveed Toufeeq"
     }
 ]

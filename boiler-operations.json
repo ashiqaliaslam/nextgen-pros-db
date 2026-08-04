@@ -1,0 +1,112 @@
+[
+    {
+        "id": "boiler_1",
+        "industry": "Power Generation & Utilities",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Boiler Operations",
+        "question": "What is the difference between boiler swell and shrinkage during load changes?",
+        "answer": "Boiler swell occurs when steam demand suddenly increases, causing drum pressure to drop. Bubbles below the water level expand, temporarily raising the water level despite lower water inventory. Shrinkage occurs when load drops, drum pressure increases, bubbles collapse, and the water level temporarily drops.",
+        "contributorId": "c_04",
+        "contributor": "Muhammad Imran"
+    },
+    {
+        "id": "boiler_2",
+        "industry": "Power Generation & Utilities",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Boiler Operations",
+        "question": "What is the difference between Continuous Blowdown (CBD) and Intermittent/Bottom Blowdown (IBD)?",
+        "answer": "CBD continuously removes concentrated dissolved solids (TDS) from near the drum surface where concentration is highest. IBD is performed periodically from the bottom header/mud drum to flush out accumulated sludge, scale, and suspended solids.",
+        "contributorId": "c_04",
+        "contributor": "Muhammad Imran"
+    },
+    {
+        "id": "boiler_3",
+        "industry": "Oil & Gas",
+        "position": "Field Operator",
+        "difficulty": "Senior-Level (8-15 years)",
+        "category": "Boiler Operations",
+        "question": "What key conditions trigger a Master Fuel Trip (MFT) in a utility boiler according to BMS standards?",
+        "answer": "Common MFT trips include: Very High/Very Low Drum Water Level, Loss of all Forced/Induced Draft Fans (air flow loss), Loss of Flame signal on all burners, Low Fuel Gas supply pressure, High Furnace Pressure, and emergency ESD manual push button activation.",
+        "contributorId": "c_01",
+        "contributor": "Ashique Ali"
+    },
+    {
+        "id": "boiler_4",
+        "industry": "Power Generation & Utilities",
+        "position": "Utility Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Boiler Operations",
+        "question": "Why is the Deaerator maintained at a specific pressure and temperature, and what happens if dissolved gases carry over?",
+        "answer": "The deaerator removes dissolved oxygen (O2) and carbon dioxide (CO2) from boiler feedwater through steam stripping and thermal heating. Poor deaeration causes severe pitting corrosion (O2) and carbonic acid corrosion (CO2) in economizers, drums, and steam tubes.",
+        "contributorId": "c_15",
+        "contributor": "Muahmmad Naveed Toufeeq"
+    },
+    {
+        "id": "boiler_5",
+        "industry": "Power Generation & Utilities",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Boiler Operations",
+        "question": "How do Priming and Foaming cause boiler carryover, and how are they controlled?",
+        "answer": "Foaming is caused by high oil, organic impurities, or high TDS forming bubbles on the water surface. Priming is the violent surge of water droplets into the steam outlet due to high water level or sudden steam surges. They are controlled by CBD, chemical antifoam injection, and maintaining proper drum level.",
+        "contributorId": "c_04",
+        "contributor": "Muhammad Imran"
+    },
+    {
+        "id": "boiler_6",
+        "industry": "Power Generation & Utilities",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Boiler Operations",
+        "question": "What is the step-by-step procedure for performing a manual gauge glass blowdown to verify drum water level?",
+        "answer": "1. Close top steam valve & open drain valve to flush water line.\n2. Close bottom water valve & keep steam valve open to flush steam line.\n3. Open bottom water valve & close top steam valve to verify water flow.\n4. Close drain valve and return steam/water valves to normal open position. Ensure level returns promptly.",
+        "contributorId": "c_04",
+        "contributor": "Muhammad Imran"
+    },
+    {
+        "id": "boiler_7",
+        "industry": "Oil & Gas",
+        "position": "Field Operator",
+        "difficulty": "Senior-Level (8-15 years)",
+        "category": "Boiler Operations",
+        "question": "What is thermal shock during cold boiler startup, and how is it prevented?",
+        "answer": "Thermal shock occurs when rapid heating or cooling causes uneven expansion/contraction of heavy thick-walled components like steam drums and headers, leading to metal fatigue or cracks. It is prevented by strictly controlling warm-up rates (°C/hr) and firing slowly during light-off.",
+        "contributorId": "c_01",
+        "contributor": "Ashique Ali"
+    },
+    {
+        "id": "boiler_8",
+        "industry": "Power Generation & Utilities",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Boiler Operations",
+        "question": "Why are water tube boilers preferred over fire tube boilers in high-pressure oil refinery operations?",
+        "answer": "Water tube boilers can handle high operating pressures (>30 to 100+ bar) and large steam volumes safely because high pressure is contained inside smaller diameter tubes rather than a large shell. They also have faster response to load changes and lower risk of catastrophic explosion.",
+        "contributorId": "c_04",
+        "contributor": "Muhammad Imran"
+    },
+    {
+        "id": "boiler_9",
+        "industry": "Power Generation & Utilities",
+        "position": "Utility Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Boiler Operations",
+        "question": "What is attemperation (desuperheating) in a boiler, and how does it work?",
+        "answer": "Attemperation is the process of controlling superheated steam outlet temperature by spraying high-purity BFW (Boiler Feedwater) directly into the steam line between superheater stages. This prevents thermal damage to downstream steam turbines and piping headers.",
+        "contributorId": "c_15",
+        "contributor": "Muahmmad Naveed Toufeeq"
+    },
+    {
+        "id": "boiler_10",
+        "industry": "Power Generation & Utilities",
+        "position": "Field Operator",
+        "difficulty": "Mid-Level (3-7 years)",
+        "category": "Boiler Operations",
+        "question": "Why is furnace purge required before lighting up the first burner in a boiler?",
+        "answer": "Furnace purge uses combustion air (forced draft fans) to flush out any unburned combustible gas or fuel vapors accumulated inside the furnace cavity or flues. This prevents furnace explosion/implosion during pilot light-off (per NFPA 85 standards).",
+        "contributorId": "c_04",
+        "contributor": "Muhammad Imran"
+    }
+]
